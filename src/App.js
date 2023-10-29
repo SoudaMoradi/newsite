@@ -11,7 +11,7 @@ function App() {
     const pages={
         HOME:<Home/>,
         CUSTOMERS:<Customers/>,
-        SHOP:<Shop/>//salam
+        SHOP:<Shop/>//salam/
     }
   return (
       <div className="flex h-screen">
